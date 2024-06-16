@@ -109,4 +109,9 @@ main {
 
 .citat {
   font-style: italic;
+  font-weight: bold;
+}
+
+.balle {
+  font-weight: bold;
 }
